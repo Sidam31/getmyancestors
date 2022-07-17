@@ -5,7 +5,7 @@ import time
 import requests
 
 # local imports
-from getmyancestors.classes.translation import translations
+from getmyancestors.getmyancestors.classes.translation import translations
 
 
 class Session:

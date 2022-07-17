@@ -8,8 +8,8 @@ from urllib.parse import unquote
 import babelfish
 
 # local imports
-import getmyancestors
-from getmyancestors.classes.constants import (
+import getmyancestors.getmyancestors as getmyancestors
+from getmyancestors.getmyancestors.classes.constants import (
     MAX_PERSONS,
     FACT_EVEN,
     FACT_TAGS,

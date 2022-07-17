@@ -11,8 +11,8 @@ import asyncio
 import argparse
 
 # local imports
-from getmyancestors.classes.tree import Tree
-from getmyancestors.classes.session import Session
+from getmyancestors.getmyancestors.classes.tree import Tree
+from getmyancestors.getmyancestors.classes.session import Session
 
 
 def main():
